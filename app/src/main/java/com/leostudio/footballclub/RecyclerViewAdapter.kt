@@ -12,7 +12,8 @@ import kotlinx.android.synthetic.main.list_club.*
 class RecyclerViewAdapter(
     private val context: Context,
     private val items: List<Item>,
-    private val listener: (Item) -> Unit) : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>() {
+    private val listener: (Item) -> Unit
+) : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
         ViewHolder(LayoutInflater.from(context).inflate(R.layout.list_club, parent, false))

@@ -24,16 +24,34 @@
     </array>
 
     <array name="club_description">
-        <item>Barcelona FC, Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club"). Unlike many other football clubs, the supporters own and operate Barcelona. </item>
-        <item>Real Madrid FC, Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a white home kit since inception.</item>
-        <item>Bayern München FC, FC Bayern was founded in 1900 by 11 football players, led by Franz John. Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its inception in 1963.</item>
-        <item>Manchester City FC, Manchester City first played in the top-tier of the Football League in 1899 and won their first major honour with the FA Cup in 1904. </item>
-        <item>Manchester United FC, Manchester United have won more trophies than any other club in English football, with a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields.</item>
-        <item>Chelsea FC, Chelsea won the First Division title in 1955, followed by various cup competitions between 1965 and 1971. The past two decades have seen sustained success, with the club winning 23 trophies since 1997.</item>
-        <item>Associazione Calcio A.C Milan, AC Milan 18 FIFA and UEFA trophies is the fourth highest out of any club (joint with Boca Juniors), and the most out of any Italian club.</item>
-        <item>Arsenal FC, Arsenal was the first club from the South of England to join The Football League, in 1893, and they reached the First Division in 1904.</item>
+        <item>Barcelona FC, Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the
+            club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a
+            club"). Unlike many other football clubs, the supporters own and operate Barcelona.
+        </item>
+        <item>Real Madrid FC, Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a
+            white home kit since inception.
+        </item>
+        <item>Bayern München FC, FC Bayern was founded in 1900 by 11 football players, led by Franz John. Although
+            Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its
+            inception in 1963.
+        </item>
+        <item>Manchester City FC, Manchester City first played in the top-tier of the Football League in 1899 and won
+            their first major honour with the FA Cup in 1904.
+        </item>
+        <item>Manchester United FC, Manchester United have won more trophies than any other club in English football,
+            with a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields.
+        </item>
+        <item>Chelsea FC, Chelsea won the First Division title in 1955, followed by various cup competitions between
+            1965 and 1971. The past two decades have seen sustained success, with the club winning 23 trophies since
+            1997.
+        </item>
+        <item>Associazione Calcio A.C Milan, AC Milan 18 FIFA and UEFA trophies is the fourth highest out of any club
+            (joint with Boca Juniors), and the most out of any Italian club.
+        </item>
+        <item>Arsenal FC, Arsenal was the first club from the South of England to join The Football League, in 1893, and
+            they reached the First Division in 1904.
+        </item>
     </array>
-
 
 
 </resources>
